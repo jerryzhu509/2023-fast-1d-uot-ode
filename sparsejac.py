@@ -1,3 +1,5 @@
+# https://github.com/mfschubert/sparsejac/tree/main
+
 """Defines functions for efficient computation of sparse Jacobians."""
 
 from typing import Callable, Tuple, Union
